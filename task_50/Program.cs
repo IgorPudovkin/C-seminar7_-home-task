@@ -4,7 +4,6 @@
 //17 -> такого числа в массиве нет
 using System;
 using static System.Console;
-
 Clear();
 
 Write("Enter the number of rows: ");
